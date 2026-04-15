@@ -1,0 +1,16 @@
+{
+  "name": "Findr Lost and Found",
+  "short_name": "Findr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Report and recover lost items with real-time matching.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
